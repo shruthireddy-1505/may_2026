@@ -13,4 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shruthireddy-1505/may_2026/tree/master/0070-climbing-stairs) |
+## Array
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/shruthireddy-1505/may_2026/tree/master/0704-binary-search) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/shruthireddy-1505/may_2026/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
