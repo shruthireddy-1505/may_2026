@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shruthireddy-1505/may_2026/tree/master/0004-median-of-two-sorted-arrays) |
+| [0078-subsets](https://github.com/shruthireddy-1505/may_2026/tree/master/0078-subsets) |
 | [0704-binary-search](https://github.com/shruthireddy-1505/may_2026/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
@@ -27,4 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shruthireddy-1505/may_2026/tree/master/0004-median-of-two-sorted-arrays) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/shruthireddy-1505/may_2026/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/shruthireddy-1505/may_2026/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
